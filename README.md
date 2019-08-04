@@ -50,5 +50,3 @@
     * inquirer.
 * Git
 * GitHub# Constructor-Word-Guess
-=======
->>>>>>> 2b4298c7ac4258b288166b0ff0abfb8074b7e193
