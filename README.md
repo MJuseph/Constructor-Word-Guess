@@ -30,4 +30,4 @@
 
 * **Screenshot Giphy**
 
-![Results](/giphy/word.gif)
+![Results](/giphy/Word.gif)
